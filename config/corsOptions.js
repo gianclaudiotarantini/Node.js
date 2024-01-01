@@ -4,7 +4,7 @@ const whitelist = [
     'http://localhost:3500'
 ];
 
-const corsOptions = { 
+const corsOptions = {
     origin: (origin, callback) => {
         if (whitelist.indexOf(origin) !== -1 || !origin) {
             callback(null, true)

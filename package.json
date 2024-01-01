@@ -1,5 +1,5 @@
 {
-  "name": "09tut",
+  "name": "10tut",
   "version": "1.0.0",
   "description": "Express tutorial",
   "main": "server.js",
@@ -7,9 +7,10 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Gianclaudio Tarantini", 
+  "author": "Gianclaudio Tarantini",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "date-fns": "^2.23.0",
     "express": "^4.17.1",
