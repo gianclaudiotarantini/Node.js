@@ -1,2 +1,8 @@
 20240103	21:48:20	bea8d3ce-0b80-4dc1-bc56-619f825dadba	SyntaxError: Unexpected token e in JSON at position 0
 20240103	21:48:47	dcf667bc-a605-4bbc-900b-a8fc345bfa23	SyntaxError: Unexpected token e in JSON at position 0
+20240105	20:00:43	4ca73d1e-c60e-444d-a6d7-4944d8700adc	TypeError: res.Status is not a function
+20240105	20:00:55	6c6a8b04-a9c4-4572-a885-1a10ce4350cb	TypeError: res.Status is not a function
+20240105	20:01:17	ce971e22-4035-4415-9932-70d975a710cd	TypeError: res.resStatus is not a function
+20240105	20:01:22	f74ac5b7-01a8-429e-b1b1-9d2d9bea4972	TypeError: res.resStatus is not a function
+20240105	20:02:00	f480b79c-f611-44f3-8ff6-e09a2a271ad9	TypeError: res.Status is not a function
+20240105	20:02:55	28daaf85-506e-48eb-a407-2c2159357e9d	TypeError: res.Status is not a function
