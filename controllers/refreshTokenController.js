@@ -18,8 +18,12 @@ const handleRefreshToken = (req, res) => {
         process.env.REFRESH_TOKEN_SECRET,
         (err, decoded) => {
             if (err || foundUser.username !== decoded.username) return res.sendStatus(403);  // Se la verifica ha successo e il refreshToken è valido
+            const roles = Object.values(foundUser.roles);
             const accessToken = jwt.sign(
-                { "username": decoded.username },                       // Allora viene genarato un nuovo token
+                { "UserInfo" : {
+                    "username": decoded.username,
+                    "roles" : roles
+                }  },                       // Allora viene genarato un nuovo token
                 process.env.ACCESS_TOKEN_SECRET,
                 { expiresIn: '30s' }
             );

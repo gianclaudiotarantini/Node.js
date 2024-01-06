@@ -6,3 +6,16 @@
 20240105	20:01:22	f74ac5b7-01a8-429e-b1b1-9d2d9bea4972	TypeError: res.resStatus is not a function
 20240105	20:02:00	f480b79c-f611-44f3-8ff6-e09a2a271ad9	TypeError: res.Status is not a function
 20240105	20:02:55	28daaf85-506e-48eb-a407-2c2159357e9d	TypeError: res.Status is not a function
+20240105	21:32:17	3ef248fc-d882-439b-860b-750a5d5ee92b	TypeError: Cannot read properties of undefined (reading 'username')
+20240105	21:34:26	b03e0b59-5f6e-440d-b44c-947fc9c90cd3	TypeError: Cannot read properties of undefined (reading 'username')
+20240105	21:34:32	a7272bfb-8e93-4d81-93c0-7fb16abed786	TypeError: Cannot read properties of undefined (reading 'username')
+20240105	21:34:36	9a9a9d2f-22ef-4f10-98d1-6163bea6103f	TypeError: Cannot read properties of undefined (reading 'username')
+20240105	21:41:55	db71fbb4-d032-4605-a73b-c954492e47ee	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:10:42	5cd359fc-f050-4db0-bede-f1615edc02ac	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:11:42	4898779f-b8be-4502-8ed6-e54c0264f9e6	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:11:51	61289a23-8283-45ab-9192-4b64aacfa6e3	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:14:33	66c1331d-8fbf-467b-bdc1-0c91c7c42c8d	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:14:38	8a690925-7cef-4a2d-af61-da17b4e328a5	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:16:48	ea7ae316-2e9c-465d-979a-a68aa8bb569a	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:24:57	b8ebd7f0-b219-4f54-b7ee-4936abd4e9c1	TypeError: Cannot read properties of undefined (reading 'username')
+20240106	23:35:00	7db5ab6b-a0f9-48a6-89ce-734a6dff7762	TypeError: Cannot read properties of undefined (reading 'username')
