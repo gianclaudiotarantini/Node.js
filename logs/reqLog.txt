@@ -224,3 +224,5 @@
 20240110	22:36:25	ffc07508-20e8-4678-9dd5-9366ef097de2	GET	undefined	/favicon.ico
 20240110	22:36:54	b5fbc874-8b8b-4bcd-b97f-301cee36a780	GET	undefined	/employees/
 20240110	22:36:54	f39f27e3-b8e2-48c0-864b-70d8b46902e1	GET	undefined	/favicon.ico
+20240111	22:19:29	fd448798-b192-4864-a4d9-dbc7cb0b66f7	POST	undefined	/register
+20240111	22:22:53	270e6e50-b65e-4b35-8b33-4220e3990ffa	POST	undefined	/register
