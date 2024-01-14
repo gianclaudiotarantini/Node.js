@@ -226,3 +226,13 @@
 20240110	22:36:54	f39f27e3-b8e2-48c0-864b-70d8b46902e1	GET	undefined	/favicon.ico
 20240111	22:19:29	fd448798-b192-4864-a4d9-dbc7cb0b66f7	POST	undefined	/register
 20240111	22:22:53	270e6e50-b65e-4b35-8b33-4220e3990ffa	POST	undefined	/register
+20240114	09:42:28	a2e2e045-bce2-433b-9745-0f83eed93932	POST	undefined	/register
+20240114	09:42:42	8da85212-5fe3-41a6-ad77-81ab3d56339e	POST	undefined	/register
+20240114	09:43:53	fba69d4d-8e7a-4bfd-b521-e8871210de4a	POST	undefined	/auth
+20240114	09:46:25	3550743c-5396-44ef-91e2-b8596a517526	GET	undefined	/refresh
+20240114	09:49:34	c0f9c9c0-90eb-473d-a7d7-781a9e6618ed	POST	undefined	/auth
+20240114	09:49:39	82c8ebc6-9e72-432d-bd98-394d9ceabdef	GET	undefined	/refresh
+20240114	09:50:23	b52d0407-1982-4e78-b292-74f221783361	GET	undefined	/refresh
+20240114	09:50:42	4dbba9e2-7677-4884-b87a-3d6d947cd45c	POST	undefined	/auth
+20240114	09:51:11	b1c4f14b-28f9-415f-83e6-74e3d89b4575	GET	undefined	/refresh
+20240114	09:52:36	16887a33-b790-4d4e-be8b-5717878c05ef	GET	undefined	/logout
